@@ -54,7 +54,7 @@ This project is aimed at developing a platform that offers a donation page where
 - [Data Schema](https://linktodocumentation)
 - [Figma Link](https://linktodocumentation)
 - [Frontend](https://linktodocumentation)
-- [Server Side](https://linktodocumentation)
+- [Server Side](https://docs.google.com/document/d/1X0CcFMb7bXfWedCc_91pOlBgs-ODgLKfsEyksTPlXEo/edit#)
 
 ## Authors 
 - [@osmmacfides](https://github.com/osmmacfides)
