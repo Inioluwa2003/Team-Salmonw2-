@@ -29,8 +29,6 @@ This project is aimed at developing a platform that offers a donation page where
 
 ## Technological Stack
 
-### Skills
-
 <p align="left">Design:
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
 </p>
