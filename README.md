@@ -12,13 +12,13 @@ This project is aimed at developing a platform that offers a donation page where
 
 ## Feature Requests
 
-	User: Unauthenticated
+### User: Unauthenticated
 - Visit the platform to view basic information about the platform
 - View and Interact with the documentation
 - Register to view more details
 - No access to use until registered
 
-	User: Authenticated
+### User: Authenticated
 - Full access to the platform
 - Users can create new alumni donate page
 - Users must be verified as a college student
@@ -41,12 +41,14 @@ This project is aimed at developing a platform that offers a donation page where
 </p>
 <p align="left">Server:
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" style="color:black;"/></a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg" width="36" height="36" alt="Django"/></a>
 </p>
 <p align="left">DataBase:
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></p>
-<p align="left">Version Control System: </p>
+<p align="left">Version Control System: 
+ <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36" alt="Django"/></a>
+</p>
 
 
 ## Documentation
